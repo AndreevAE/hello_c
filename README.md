@@ -1,5 +1,5 @@
 # Hello Project
-## How to buld
+## How to build
 
 1. do "make"
 
